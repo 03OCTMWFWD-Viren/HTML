@@ -1,0 +1,75 @@
+1)WEBSITE :- 
+      ;- A Website is collection of web pages.
+      ;-That is identify by common domain name and Publised on at least one web server.
+
+2)DOMAIN :-
+      ;-A Domain is networl of commputer and device that are contolled by one set authority and
+       that have specific guideliness.
+      ;-A Domain is conterolled by one particular company that has its own internet presence and
+       ip adress.
+ 
+3)WWW :-
+      ;-World wide web.
+      ;-Collection of website or webpages stored in web server and conected to local computer.
+
+4)HTTP :-
+          ;-Hyper Text Transfer Protocol
+          ;-Http is communication key between broweser and server .
+
+HTTPS :-
+         ;-Https is secure version of Http.
+         ;-Https srtands for Hyper text transfer protocol secure.
+         ;-It is protocol where Encrypted Http data transfer over a secure version.
+
+5)URL - URI/URN
+         ;-URI means Universal Resource Identifiers
+         ;-Uri is text which is used to identify any resources or name on internet.
+         ;-Uri has two specialization in the form of url and urn.
+         ;-URL means Uniform resource locator. 
+         ;-URN means Uniform resource name.
+
+6)CLIENT SERVER :-
+         ;-Denoting a computer system in which a central server provides date to a number of 
+           networked Workstations.
+         ;-Client is also known as a service requestor.
+
+7)HOST :-
+           ;-A Person who service or Entertains other people as Guest.
+           ;-It can either be a client or a server that sends and recive Applicatin.
+
+8)HOSTING :-
+           ;-Acces your on website on Browser.
+           ;-Host your on website so other people around you can Acces it.
+
+9)FTP :-   
+          ;-File Transfer Protocol
+          ;-It is Represents ftp and standerd internet protocol supported by TCP/IP (connection of 
+            computer system to the internet) used for transmiting file from onr host to another.
+
+10)EXTENSIONS :-
+          ;-An Extensions is a part that is added to something that Extends or Enlarges.
+          ;-Small softwer program that customize the browsing experience.
+
+11)PATH :-
+          ;-Program For Appropriate Technology in Health.
+          ;-A Path is the list of Directories that will be searched for anything that you type on 
+            command line.
+          ;-A Path is another name for vector line or line with start and end point.
+
+12)EDITOR/VSCODE :-
+          ;-A Person who is incharge of and Determines the final content of a Newspaper ; Magazine
+            or multie Author book.
+          ;-Vscode means Visual Studio Code .
+          ;-It is source code editor made by Microsoft with Electron Framework for Windows and Macos.
+
+13)ADDRESS BAR :- 
+          ;-Address bar is the Familiar text Field at the top of web broweser Graphical user interface.
+          ;-That Displays the name or the URL of the current web pages.
+
+14)TITLE BAR :-
+          ;-Title bar is Horizontal bar located at the top of a windoe in a GUI (Graphical User 
+            Interfase).
+          ;-It Display the Title of Software,name of the current Documentor file. 
+          ;-Title bar lies right next to the Quick Acess Toolbar and it display the titl of the 
+            Currently Open Document or Application.    
+   
